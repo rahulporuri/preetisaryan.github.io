@@ -1,0 +1,36 @@
+---
+title: "About"
+---
+
+## Short bio
+
+Dr. Preeti is a trained field ecologist and the Founder of Saryan Vigyan
+Foundation. She has a B.S. & M.S. in Biology from IISER Trivandrum and a
+Ph.D. in plant ecology from IISER Bhopal. She pursues fundamental scientific
+research to enable sustainable living in Himachal Pradesh. She also works to
+preserve and spread the Kinnauri culture through her collaboration with Zed.tells.
+
+## Academic bio
+
+Dr. Preeti is a trained field ecologist and the Founder of Saryan Vigyan Foundation.
+During her undergraduate and graduate studies at IISER Trivandrum and IISER Bhopal,
+she pursued field work in Tamil Nadu (KMTR Tiger reserve), Kerala (Shendurney Wildlife Sanctuary),
+Maharashtra (Bhimashankar Wildlife Sanctuary), Arunachal Pradesh, Assam,
+Meghalaya, Manipur, Nagaland. She now applies her extensive field research
+experience to pursue fundamental scientific research in ecology and conservation
+in Himachal Pradesh (Kinnaur district). Through Saryan Vigyan Foundation, she
+also works to make science accessible to students in Government Schools in Kinnaur
+district, and works with the local district administration to adopt sustainable
+practices. Dr. Preeti has published 6 research articles in reputable international
+journals, has presented at international conferences like the Botany Conference, USA,
+International Botanical Gardens Conference in Singapore.
+
+## Professional bio
+
+Dr. Preeti is a scientist first and a founder second. She founded the Saryan Vigyan
+Foundation to translate scientific research into systematic change in Kinnaur and
+Himachal Pradesh in general. She is also a Chief Scientist at the
+Deep Tech Innovation Centre, Graphic Era University and the Head of Science at SoftCircuits Labs.
+She co-invented the FloPump, a low-cost portable pump for sampling air, was part
+of the winning team for the Jal Shakti Hackathon 2025, was an early adoptor of Machine Learning
+algorithms in Ecology & Evolution research, and has spoken at technology conferences like IndiaFOSS.

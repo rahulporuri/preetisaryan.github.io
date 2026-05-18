@@ -1,0 +1,45 @@
+project:
+    type: website
+    output-dir: docs
+
+website:
+    title: "Dr. Preeti Saryan"
+    repo-url: https://github.com/preetisaryan/preetisaryan.github.io
+    repo-actions: [source, issue]
+    open-graph:
+        locale: en_IN
+        site-name: preetisaryan
+    navbar:
+        left:
+            - href: index.qmd
+              text: Home
+            - about.qmd
+            - href: research.qmd
+              text: Work & Research
+        tools:
+            - icon: linkedin
+              href: https://www.linkedin.com/in/dr-preeti-saryan-92574438/
+            - icon: instagram
+              href: https://www.instagram.com/preetisaryan
+    page-footer:
+        left: "Copyright 2026, Dr. Preeti Saryan. Built with [Quarto](https://quarto.org/)"
+        border: true
+        center:
+            - icon: envelope-at
+              href: mailto:preetisaryan999@gmail.com
+            - icon: envelope-at-fill
+              href: mailto:preeti@saryanfoundation.org
+            - icon: linkedin
+              href: https://www.linkedin.com/in/dr-preeti-saryan-92574438/
+            - icon: instagram
+              href: https://www.instagram.com/preetisaryan/
+            - icon: git
+              href: https://github.com/preetisaryan
+
+format:
+    html:
+        theme:
+            light: flatly
+            dark: darkly
+        css: styles.css
+        toc: true
